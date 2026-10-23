@@ -5,12 +5,14 @@
 Welcome to my GitHub! I'm based in New Hampshire and love balancing my time between writing code, building things, and exploring the outdoors. 
 
 ### 🛠️ What I do:
-* **Fun Projects:** Building things like a [Cheapino](https://github.com/tompi/cheapino) keyboard, ricing a [Sketchybar](https://github.com/FelixKratz/SketchyBar) config, and more!
-* **✨:AI:** Exploring AI, by doing some vibe-coding, local models, etc.
+* **🍏 Apple Silicon Linux:** Running [Omarchy Mac](https://github.com/JJRPF/omarchy-mac) and working on [Aurora Silicon](https://github.com/aurora-silicon/linux) Touch ID, DeepIdle, and S2R for M2 Pro.
+* **🗺️ Loam:** Building [Loam](https://github.com/JJRPF/loam), an open-source route builder for mountain biking and trail running.
+* **⚡ Fun Projects:** Building things like a [Cheapino](https://github.com/tompi/cheapino) keyboard, ricing a [Sketchybar](https://github.com/FelixKratz/SketchyBar) config, and more!
+* **✨ AI:** Exploring AI, by doing some vibe-coding, local models, etc.
 
 ### ⛰️ Beyond the Screen
 When I'm away from the keyboard, you'll generally find me:
-* **Hitting the Trails:** Mountain biking or skiing in my local trails.
+* **Hitting the Trails:** Mountain biking, running, or skiing on my local trails.
 * **In the Air:** Flying my DJI FPV drone and feeding my general interest in aviation.
 * **Making Things:** Running my 3D printer for various prototyping ideas.
 
